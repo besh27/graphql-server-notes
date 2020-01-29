@@ -126,6 +126,5 @@ returns
 ```
 
 ## Next Steps
-Review the [Exercise transcript](../05-transcripts/10-arguments-input-types-exercise.txt)  
-Review the [Solution transcript](../05-transcripts/10-arguments-input-types-solutiontxt)  
+
 Move on to the next section about [Mutations](../03-Mutations/00-mutation-types.md)

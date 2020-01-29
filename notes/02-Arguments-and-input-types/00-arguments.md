@@ -41,5 +41,4 @@ In this example we are adding `height` and `width` values to the image property.
 
 ## Next Steps
 
-Review the [transcript](../05-transcripts/08-arguments.txt)  
 Move on to notes on [Input Types](01-input-types.md)

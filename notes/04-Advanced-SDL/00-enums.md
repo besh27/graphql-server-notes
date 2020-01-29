@@ -52,5 +52,4 @@ enum PetType {
 
 ## Next Steps
 
-Review the [Transcript](../05-transcripts/17-interfaces.txt)
 Move on to the next section about [Advanced SDL](../04-Advanced-SDL/01-interfaces.md)

@@ -27,5 +27,5 @@ server.listen().then(({ url }) => {
 https://www.apollographql.com/docs/apollo-server/data/data-sources/
 
 ## Next Steps
-Review the [Transcript](../05-transcripts/26-authentication.txt)
+
 Move on to the next section about [Authentication](05-further-reading.md)

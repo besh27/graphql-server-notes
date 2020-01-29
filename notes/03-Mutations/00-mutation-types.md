@@ -70,7 +70,4 @@ returns
 
 ## Next Steps
 
-Review the [Transcript](../05-transcripts/13-mutation-type.txt)
-Review the [Exercise transcript](../05-transcripts/13-mutation-exercise.txt)  
-Review the [Solution transcript](../05-transcripts/13-mutation-solution.txt)  
 Move on to the next section about [Advanced SDL](../04-Advanced-SDL/00-enums.md)

@@ -43,5 +43,4 @@ Animal {
 
 ## Next Steps
 
-Review the [Transcript](../05-transcripts/18-unions.txt)
 Move on to the next section about [Relationships](../03-relationships.md)

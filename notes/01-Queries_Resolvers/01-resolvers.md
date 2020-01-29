@@ -31,5 +31,4 @@ You can serve almost anything with this model, as long as the resolver data type
 
 ## Next Steps
 
-Review the [transcript](../05-transcripts/04-resolvers.txt)  
 Move on to notes on [Query Type Exercise](02-query-type-exercise.md)

@@ -16,4 +16,4 @@
 
 
 ## Gettings Started
-- Follow along and start building [here](/Notes/00-Introduction/00-notes.md)
+- Follow along and start building [here](./notes/00-Introduction/00-notes.md)
