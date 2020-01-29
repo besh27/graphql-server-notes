@@ -1,7 +1,3 @@
-# graphql-server-notes
-
-
-
 <div align="center">
 <p>
 <a href="https://graphql.org/">
